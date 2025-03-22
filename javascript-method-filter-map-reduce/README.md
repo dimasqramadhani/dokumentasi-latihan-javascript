@@ -11,13 +11,13 @@ This project demonstrates the use of **filter**, **map**, and **reduce** in Java
 
 ## **📌 Why This Works?**
 ```javascript
-const hours = Math.floor(totalSeconds / 3600);
-const minutes = Math.floor((totalSeconds % 3600) / 60);
-const seconds = totalSeconds % 60;
+const hours = Math.floor(totalTimes / 3600);
+const minutes = Math.floor((totalTimes % 3600) / 60);
+const seconds = totalTimes % 60;
 ```
-- totalSeconds / 3600 gives the total hours.
-- totalSeconds % 3600 / 60 extracts remaining minutes.
-- totalSeconds % 60 gets the remaining seconds.
+- totalTimes / 3600 gives the total hours.
+- totalTimes % 3600 / 60 extracts remaining minutes.
+- totalTimes % 60 gets the remaining seconds.
 
 ## **📌 How to Use**
 1. Open index.html in your browser.

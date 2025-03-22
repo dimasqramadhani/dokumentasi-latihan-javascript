@@ -23,7 +23,11 @@ This repository contains practice designed to implement various JavaScript featu
 - Closures  
 - Higher-Order Functions  
 - Array Methods: `.filter()`, `.map()`, `.reduce()`  
-- And more...  
+- And more...
+
+### **4️⃣ Javascript Framework**
+- React.js
+- Vue.js
 
 ## 🚀 **Get Started**
 To practice the exercises, clone this repository and start coding!  

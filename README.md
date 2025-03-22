@@ -1,6 +1,30 @@
-# Dokumentasi Latihan Javascript
+# **JavaScript Practice Repository**
 
-Repositori ini berisikan latihan untuk mengimplementasikan fitur yang ada pada javascript selama proses belajar Vanila Javascript.
-1. Javascript Basic (Function, Object, Pengkondisian dan Perulangan, dll)
-2. Javascript DOM (DOM Selection, DOM Manipulation, DOM Event, dll)
-3. Javascript Advanced (Closure, High Order Function, .filter(), .map(), .reduce(), dll)
+This repository contains practice designed to implement various JavaScript features throughout the learning process of **Vanilla JavaScript**.
+
+## **📌 Topics Covered**
+
+### **1️⃣ JavaScript Basics**
+- Functions  
+- Objects  
+- Conditional Statements & Loops  
+- And more...  
+
+### **2️⃣ JavaScript DOM**
+- DOM Selection  
+- DOM Manipulation  
+- DOM Events
+- DOM Traversal 
+- And more...  
+
+### **3️⃣ JavaScript Advanced**
+- Arrow Function
+- Prototype
+- Closures  
+- Higher-Order Functions  
+- Array Methods: `.filter()`, `.map()`, `.reduce()`  
+- And more...  
+
+## 🚀 **Get Started**
+To practice the exercises, clone this repository and start coding!  
+

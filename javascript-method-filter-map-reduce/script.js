@@ -1,25 +1,25 @@
-// ambil semua elemen video
+// fetch all elemen li contain video's title
 const videos = Array.from(document.querySelectorAll('[data-duration]'));
 
-// pilih hanya yang 'JAVASCRIPT LANJUTAN'
+// filter only video with title contain "JAVASCRIPT LANJUTAN"
 const videoTitle = videos.filter(video => video.textContent.includes('JAVASCRIPT LANJUTAN'));
 const videoTitleLength = videoTitle.length;
 
 // ambil durasi masing masing video
 const durations = videoTitle.map(duration => duration.getAttribute('data-duration'));
 
-// ubah durasi menjadi int, ubah menit menjadi detik
+// change duration into int, and change minute into second
 const convertInt = durations.map(duration => {
     return duration.split(':');
 }); 
 
-// jumlahkan semua detik
+// summ all second
 const totalSeconds = convertInt.map(duration => {
     const [minutes, seconds] = duration.map(Number);
     return (minutes * 60) + seconds;
 });
 
-// ubah format menjadi jam menit detik
+// change format into hour minute second
 const totalTimes = totalSeconds.reduce((accumulator, currentValue) => {
     return accumulator + currentValue;
 });
@@ -30,9 +30,9 @@ const seconds = totalTimes % 60;
 
 const formattedTime = `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
 
-// simpan DOM
-const totalDurations = document.querySelector('ol li p span.total-durasi');
-const totalVideo = document.querySelector('ol li p span.jumlah-video');
+// save DOM
+const totalDurations = document.querySelector('ol li p span.total-duration');
+const totalVideo = document.querySelector('ol li p span.total-video');
 
 totalVideo.innerHTML = `${videoTitleLength} video`;
 totalDurations.innerHTML = formattedTime;

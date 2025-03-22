@@ -25,7 +25,7 @@ This repository contains practice designed to implement various JavaScript featu
 - Array Methods: `.filter()`, `.map()`, `.reduce()`  
 - And more...
 
-### **4️⃣ Javascript Framework**
+### **4️⃣ JavaScript Framework**
 - React.js
 - Vue.js
 

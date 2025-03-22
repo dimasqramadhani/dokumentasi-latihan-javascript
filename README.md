@@ -1,6 +1,6 @@
 # **JavaScript Practice Repository**
 
-This repository contains practice designed to implement various JavaScript features throughout the learning process of **Vanilla JavaScript**.
+This repository contains practice designed to implement various JavaScript features throughout the learning process of **JavaScript**.
 
 ## **📌 Topics Covered**
 

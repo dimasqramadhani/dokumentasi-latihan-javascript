@@ -30,5 +30,5 @@ This repository contains practice designed to implement various JavaScript featu
 - Vue.js
 
 ## **Get Started**
-To practice the exercises, clone this repository and start coding!  
+To practice the exercises, clone each repository practice you want to see and start coding!  
 

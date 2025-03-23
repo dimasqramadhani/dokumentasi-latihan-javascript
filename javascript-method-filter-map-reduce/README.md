@@ -27,3 +27,6 @@ const seconds = totalTimes % 60;
 
 ## **Summary**
 This project highlights the power of JavaScript's higher-order functions for efficient data manipulation. By leveraging filter(), map(), and reduce(), complex tasks can be executed with clean and readable code. Happy coding!
+
+## **Author**
+Dimasqi Ramadhani

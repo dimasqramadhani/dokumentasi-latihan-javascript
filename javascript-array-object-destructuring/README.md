@@ -1,7 +1,5 @@
 # **Destructuring Array and Object**
 
-## **Introduction**
-
 This project contains JavaScript exercises to practice destructuring arrays and objects. The goal is to extract values efficiently using **ES6** destructuring syntax.
 
 ### **Practice 1: Object Destructuring**
@@ -105,7 +103,7 @@ another employee: [
 
 ```
 
-## **How to Use?**
+## **How to Run?**
 
 1. Copy the JavaScript code from any practice section, i already commented each practice in this code.
 
@@ -115,7 +113,7 @@ another employee: [
 
 4. open your browser with your own html `index.html` file, open **inspect** and find **console** to see the result.
 
-## **Conclusion**
+## **Summary**
 
 This practice helps in understanding how to efficiently extract data from objects and arrays using destructuring in JavaScript. Happy coding!
 

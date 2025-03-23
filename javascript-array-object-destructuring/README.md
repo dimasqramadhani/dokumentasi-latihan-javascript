@@ -54,7 +54,7 @@ const employee = [
 The result should look like this: 
 ```bash
 name: Alya, position: Developer  
-second employee revenue: 7500  
+second employee's salary: 7500  
 last employee: { id: 3, name: 'Sinta', position: 'Manager', salary: 10000 }
 ```
 
@@ -95,8 +95,8 @@ The result should look like this:
 
 ```bash
 company: Tech Corp, location: Jakarta  
-second employee name: Raka, position: Designer  
-first employee skills: JavaScript  
+second employee's name: Raka, position: Designer  
+first employee's skills: JavaScript  
 revenue 2024: 600000  
 another employee: [ 
   { id: 2, name: 'Raka', position: 'Designer', salary: 7500, skills: [Array] }, 

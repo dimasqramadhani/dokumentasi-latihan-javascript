@@ -34,6 +34,10 @@ This exercise defines a student object with details such as name, semester, and 
 2. Comment `ctrl + /` one of the practice code in JavaScript file if you want to showing each practice in browser. 
 3. I already signed it each practice with comment so you can see easily know part of the code, then open the HTML file in a web browser.
 
+## **Summary**
+
+This practice helps in understanding how to efficiently extract data from objects using template literal in JavaScript. Happy coding!
+
 ## **Author**
 Dimasqi Ramadhani
 

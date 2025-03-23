@@ -1,23 +1,23 @@
 # **JavaScript Practice Repository**
 
-This repository contains practice designed to implement various JavaScript features throughout the learning process of **JavaScript**.
+This repository contains a collection of exercises designed to implement various **JavaScript** features throughout the learning process.
 
 ## **Topics Covered**
 
-### **JavaScript Basics**
+### **1. JavaScript Basics**
 - Functions  
 - Objects  
 - Conditional Statements & Loops  
 - And more...  
 
-### **JavaScript DOM**
+### **2. JavaScript DOM**
 - DOM Selection  
 - DOM Manipulation  
 - DOM Events
 - DOM Traversal 
 - And more...  
 
-### **JavaScript Advanced**
+### **3. JavaScript Advanced**
 - Arrow Function
 - Prototype
 - Closures  
@@ -25,10 +25,10 @@ This repository contains practice designed to implement various JavaScript featu
 - Array Methods: `.filter()`, `.map()`, `.reduce()`  
 - And more...
 
-### **JavaScript Framework**
+### **4. JavaScript Framework**
 - React.js
 - Vue.js
 
 ## **Get Started**
-To practice the exercises, clone each repository practice you want to see and start coding!  
+To start practicing, clone this repository and explore the exercises. Happy coding!  
 

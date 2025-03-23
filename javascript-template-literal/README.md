@@ -29,12 +29,10 @@ This exercise defines a student object with details such as name, semester, and 
 - The `renderCourses()` function uses the `map()` function to create an ordered list of courses.
 - The `document.body.innerHTML` is updated with the generated student information and course list.
 
-## **How to Run**
-Simply copy and paste the code into an HTML file within a `<script>` tag or link it as an external JavaScript file. 
-
-Comment `ctrl + /` one of the practice code in JavaScript file if you want to showing each practice in browser. 
-
-I already signed it each practice with comment so you can see easily know part of the code, then open the HTML file in a web browser.
+## **How to Run?**
+1. Simply copy and paste the code into an HTML file within a `<script>` tag or link it as an external JavaScript file. 
+2. Comment `ctrl + /` one of the practice code in JavaScript file if you want to showing each practice in browser. 
+3. I already signed it each practice with comment so you can see easily know part of the code, then open the HTML file in a web browser.
 
 ## **Author**
 Dimasqi Ramadhani

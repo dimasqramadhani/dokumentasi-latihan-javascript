@@ -30,7 +30,9 @@ This exercise defines a student object with details such as name, semester, and 
 - The `document.body.innerHTML` is updated with the generated student information and course list.
 
 ## **How to Run**
-Simply copy and paste the code into an HTML file within a `<script>` tag or link it as an external JavaScript file, comment `<!- -->`one of the practice code in javascript file if you want to see each practice. 
+Simply copy and paste the code into an HTML file within a `<script>` tag or link it as an external JavaScript file. 
+
+Comment `ctrl + /` one of the practice code in JavaScript file if you want to showing each practice in browser. 
 
 I already signed it each practice with comment so you can see easily know part of the code, then open the HTML file in a web browser.
 

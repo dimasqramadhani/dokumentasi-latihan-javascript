@@ -26,7 +26,7 @@ const user = {
 #### **Result:**
 The result should look like this:
 ```bash
-name: Dimasqi  
+name: Dimasqi Ramadhani  
 age: 23  
 city: Balikpapan  
 ```

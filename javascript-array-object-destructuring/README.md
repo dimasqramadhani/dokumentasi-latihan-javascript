@@ -8,7 +8,7 @@ This project contains JavaScript exercises to practice destructuring arrays and 
 
 #### **Task:**
 
-- Extract `name`, `age`, and `city` property from the `user` object and display them in the console.
+- Extract `name`, `age`, and `city` property from the `user` object and display them in the **console**.
 
 #### **Practice 1 Data:**
 

@@ -30,5 +30,25 @@ This repository contains a collection of exercises designed to implement various
 - Vue.js
 
 ## **Get Started**
-To start practicing, clone this repository and explore the exercises. Happy coding!  
+
+### **1. Clone the Repository**
+Open your terminal or command prompt, then run:
+```bash
+git clone https://github.com/dimasqramadhani/javascript-practice.git
+```
+
+### **2. Navigate to Repository**
+Move into the project folder:
+```bash
+cd javascript-practice
+```
+
+### **3. Open the Project**
+You can now open the project in your preferred code editor, such as VS Code:
+```bash
+code .
+```
+
+### **4. Run the Project**
+Simply choose each folder you want to see, and open `index.html` in your browser to see the results. Happy coding!  
 

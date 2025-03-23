@@ -5,7 +5,7 @@ const videos = Array.from(document.querySelectorAll('[data-duration]'));
 const videoTitle = videos.filter(video => video.textContent.includes('JAVASCRIPT LANJUTAN'));
 const videoTitleLength = videoTitle.length;
 
-// ambil durasi masing masing video
+// fetch duration on each video
 const durations = videoTitle.map(duration => duration.getAttribute('data-duration'));
 
 // change duration into int, and change minute into second
